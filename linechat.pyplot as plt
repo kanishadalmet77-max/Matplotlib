@@ -1,7 +1,0 @@
-import matplotlib.pyplot as plt
-
-months=["Jan","Feb","Mar","Apr"]
-sales=[120,180,150,200]
-
-plt.plot(months,sales)
-plt.show()
